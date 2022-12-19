@@ -11,7 +11,7 @@ Each project is usually made for a specific purpose in the ecosystem following t
  - **High-quality and single-purpose** javascript utilities
  - **Healthy ecosystem** with well-maintained repositories
  - **Recognized and trustable** collection of solutions
- - A **collaborative and welcoming** ecosystem
+ - **Collaborative and welcoming** ecosystem
  - **Consistency and compatibility** across the ecosystem
 
 ## Roles and Responsibilities
