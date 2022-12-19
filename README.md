@@ -16,7 +16,7 @@ Each project is usually made for a specific purpose in the ecosystem following t
 
 ## Roles and Responsibilities
 
-## Code Owners
+### Code Owners
 
 The author and original creator(s) of each project, have the code-owner role defined in the LICENSE file.
 
@@ -30,7 +30,7 @@ Code-owner is responsible to:
 
 We respect the freedom of each author within their project(s). They have the last word in making decisions and choosing tooling, contributors and code conventions, and their project's roadmap.
 
-## Projects Maintainers
+### Projects Maintainers
 
 In addition to the original author (code-owner), when an individual shows interest to help to maintain and develop a project, they will be granted as maintainer to be directly involved in the project. A **list of all authors and maintainers shall be visible in the repository**.
 
@@ -40,7 +40,7 @@ Maintainers are responsible to:
 - Make official statements in issues and pull requests of the project
 - Communicate with the maintainers and the community about the project
 
-## UnJS Members
+### UnJS Members
 
 UnJS's ultimate goal is to be a welcoming and collaborative ecosystem. To achieve this, in addition to project maintainers, we invite community individuals to directly help with the triage and maintenance of projects when they do a certain amount of contribution across the ecosystem.
 
@@ -63,7 +63,7 @@ Members in general cannot:
 
 Pooya Parsa ([pi0](http://github.com/pi0)), as the creator of UnJS, is responsible to oversee the organization-wide decisions for choosing packages that are hosted (or to be removed) in UnJS collection and decisions that affect the main UnJS identity. The lead will communicate with maintainers and members and do actions and improve consistency across the ecosystem.
 
-### Shared Tooling and Conventions
+## Shared Tooling and Conventions
 
 To maintain a consistent and compatible ecosystem, UnJS needs templates, shared tools, and guidelines.
 
