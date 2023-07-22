@@ -4,7 +4,7 @@
 
 UnJS is a collection of independent JavaScript libraries, tools, and utilities.
 
-Each project is usually made for a specific purpose in the ecosystem following the [Unix Philisofy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html) and maintained by its author and designated maintainers.
+Each project is usually made for a specific purpose in the ecosystem following the [Unix Philosofy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html) and maintained by its author and designated maintainers.
 
 ## UnJS Goals
 
