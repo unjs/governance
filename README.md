@@ -4,7 +4,7 @@
 
 UnJS is a collection of independent JavaScript libraries, tools, and utilities.
 
-Each project is usually made for a specific purpose in the ecosystem following the [Unix Philisofy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html) and maintained by its author and designated maintainers.
+Each project is usually made for a specific purpose in the ecosystem following the [Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html) and maintained by its author and designated maintainers.
 
 ## UnJS Goals
 
@@ -59,7 +59,7 @@ Team members can:
 
 Team members in general cannot:
 
-- Make official statements on issues in repos are not maintainer of
+- Make official statements on issues in repos they are not maintainer of
 - Requesting changes or approving other's pull-requests
 - Merge pull requests (docs are the exception and allowed all across)
 - Claim credits from other's projects
